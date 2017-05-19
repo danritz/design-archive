@@ -1,5 +1,5 @@
 # Design Archive
-A more permanent place for links to articles, books, videos, and podcasts that I want to keep around and curate.
+A permanent place for links to articles, books, videos, and podcasts I find particularly helpful. My threshold for adding to archive: I expect to read, watch, and listen to everything several times. Hopefully, this will keep the quality high and resist trends.
 
 ## Sections
 * [Articles](https://github.com/danritz/design-archive/blob/master/articles.md)
