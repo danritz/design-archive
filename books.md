@@ -3,9 +3,9 @@
 # Books
 TODO: Introduction for the types of books I tend to read and enjoy
 
-**&darr; Thinking about...**
-- [Users](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-users)
-- [Systems](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-systems)
+**Contents**
+- [Thinking about users](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-users)
+- [Thinking about systems](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-systems)
 
 ## Thinking about users
 TODO: Brief description of what I mean by users
