@@ -2,3 +2,8 @@
 
 # Books
 Books worth reading again.
+
+## Badass: Making Users Awesome
+*by Kathy Sierra*
+
+Kathy is one of my heroes. She does an amazing job reframing how a product shouldn’t be cool, but help make the person using it cool. It’s a subtle shift in thinking, but makes a big difference in how things are designed. She magically balances being aggressive and driven, while still having a humble, empathetic viewpoint.
