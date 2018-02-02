@@ -2,7 +2,6 @@
 
 # Books
 
-**Contents**
 - [Thinking about users](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-users)
 - [Thinking about systems](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-systems)
 - [Thinking about the role](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-the-role)
