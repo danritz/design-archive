@@ -1,7 +1,6 @@
 &larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)
 
 # Books
-TODO: Introduction for the types of books I tend to read and enjoy
 
 **Contents**
 - [Thinking about users](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-users)
@@ -9,7 +8,6 @@ TODO: Introduction for the types of books I tend to read and enjoy
 - [Thinking about the role](https://github.com/danritz/design-archive/blob/master/books.md#thinking-about-the-role)
 
 ## Thinking about users
-TODO: Brief description of what I mean by users
 
 ### [Badass: Making Users Awesome](http://www.amazon.com/exec/obidos/ASIN/1491919019/) — Kathy Sierra
 
@@ -24,7 +22,6 @@ The first book I’ve read where someone really studied people to design better 
 There’s a lot of great books about usability, but this one does the best job of framing the struggle specifically around the user. The goal is to make them think about making progress on their problems, not about using your software. It sounds obvious, but most usability thinking is framed through the software. Making the software less bad will never get you to great (probably not even good). Making the user think less will.
 
 ## Thinking about systems
-TODO: Brief description of what I mean by systems
 
 ### [Notes on the Synthesis of Form](https://smile.amazon.com/gp/product/0674627512) — Christopher Alexander
 
@@ -51,7 +48,6 @@ This isn’t a design book. I’m not even sure I would call it a psychology boo
 Software people are strange. Working with them can be a challenge wether you’re managing them or not. This is one of the best books I’ve read on working with software people. It’s a little more specific to engineers, but as a designer it still felt right. I think this book will help anyone working with software people, including other software people.
 
 ## Thinking about the role
-TODO: Brief description of what I mean by systems
 
 ### [Thoughts on Interaction Design](http://www.amazon.com/Thoughts-Interaction-Design-Second-Kolko/dp/0123809304/) — Jon Kolko
 
