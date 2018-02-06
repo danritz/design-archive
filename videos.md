@@ -14,8 +14,6 @@ My scattered list of videos seems to have similar theme to books. Adding here so
 
 ## Thinking about systems
 
-My scattered list of videos seems to have similar theme to books. Many on the way.
-
 ### [Making Sense of Complexity](https://youtu.be/y6RfqmTZejU) — Dave Snowden
 
 Excellent thinking around using certain methods under certain conditions. Getting a sense of the level of complexity of the work you're doing. What tools and tactics fit with the work your doing. Probably the closest explanation I've found for being "strategic" with software design and development. Knowing when to switch your style of work to exploit current conditions.
