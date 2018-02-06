@@ -77,3 +77,10 @@ A great collection of amazing design thinkers giving fun, short, and valuable st
 ### [Do the Work](http://smile.amazon.com/gp/product/1936719010) — Steven Pressfield
 
 Short and sweet. To be good at something you have to do the work — be prolific. There’s no shortcut. Somehow Steven makes this sound like a good thing. He also makes it fun.
+
+## Other sections
+
+* [Videos](https://github.com/danritz/design-archive/blob/master/videos.md)
+* [Podcasts](https://github.com/danritz/design-archive/blob/master/podcasts.md)
+
+&larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)

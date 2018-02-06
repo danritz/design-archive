@@ -27,3 +27,10 @@ A thorough explanation with tangible examples of managing value instead of cost.
 ## Thinking about the role
 
 My scattered list of videos seems to have similar theme to books. Adding here soon.
+
+## Other sections
+
+* [Books](https://github.com/danritz/design-archive/blob/master/books.md)
+* [Podcasts](https://github.com/danritz/design-archive/blob/master/podcasts.md)
+
+&larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)
