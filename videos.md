@@ -33,4 +33,6 @@ My scattered list of videos seems to have similar theme to books. Adding here so
 * [Books](https://github.com/danritz/design-archive/blob/master/books.md)
 * [Podcasts](https://github.com/danritz/design-archive/blob/master/podcasts.md)
 
+***
+
 &larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)

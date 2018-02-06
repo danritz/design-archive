@@ -11,4 +11,6 @@ I love how he frames design as a big, far-reaching concern that touches every pa
 * [Books](https://github.com/danritz/design-archive/blob/master/books.md)
 * [Videos](https://github.com/danritz/design-archive/blob/master/videos.md)
 
+***
+
 &larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)

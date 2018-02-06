@@ -83,4 +83,6 @@ Short and sweet. To be good at something you have to do the work — be prolific
 * [Videos](https://github.com/danritz/design-archive/blob/master/videos.md)
 * [Podcasts](https://github.com/danritz/design-archive/blob/master/podcasts.md)
 
+***
+
 &larr; [Design Archive](https://github.com/danritz/design-archive/blob/master/README.md)
