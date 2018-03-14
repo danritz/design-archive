@@ -20,7 +20,7 @@ Kathy does an amazing job reframing how a product shouldn’t be cool, but help 
 
 ### [1971 Internal Medicine Grand Rounds](https://www.youtube.com/watch?v=qMsPXSMTpFI) — Larry Weed
 
-One of the best presentations I have seen on management of complex systems. It's through the lens of a medical professional and how they interact with a medical record to understand what should be done with a patient. It's shockingly similar to how a product person should be thinking about their product.
+The best presentation I've seen on management in a complex system. It's through the lens of a medical professional interacting with a medical record to understand what should be done for a patient. It's shockingly similar to how a product person should be thinking about their product.
 
 ### [Making Sense of Complexity](https://youtu.be/y6RfqmTZejU) — Dave Snowden
 
