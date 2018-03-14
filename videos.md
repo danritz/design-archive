@@ -18,6 +18,10 @@ Kathy does an amazing job reframing how a product shouldn’t be cool, but help 
 
 ## Thinking about systems
 
+### [1971 Internal Medicine Grand Rounds](https://www.youtube.com/watch?v=qMsPXSMTpFI) — Larry Weed
+
+One of the best presentations I have seen on management of complex systems. It's through the lens of a medical professional and how they interact with a medical record to understand what should be done with a patient. It's shockingly similar to how a product person should be thinking about their product.
+
 ### [Making Sense of Complexity](https://youtu.be/y6RfqmTZejU) — Dave Snowden
 
 Excellent thinking around using certain methods under certain conditions. Getting a sense of the level of complexity of the work you're doing. What tools and tactics fit with the work your doing. Probably the closest explanation I've found for being "strategic" with software design and development. Knowing when to switch your style of work to exploit current conditions.
