@@ -18,6 +18,10 @@ Kathy does an amazing job reframing how a product shouldn’t be cool, but help 
 
 ## Thinking about systems
 
+### [Media for Thinking the Unthinkable](https://vimeo.com/67076984) — Bret Victor
+
+Building tools that allow us to see, hear, and even think things we normally couldn't. Much of it is noticing the invisible systems around us and using them to our benefit. Developing means to manipulate them.
+
 ### [1971 Internal Medicine Grand Rounds](https://www.youtube.com/watch?v=qMsPXSMTpFI) — Larry Weed
 
 The best presentation I've seen on management in a complex system. It's through the lens of a medical professional interacting with a medical record to understand what should be done for a patient. It's shockingly similar to how a product person should be thinking about their product.
