@@ -6,7 +6,11 @@ Before you dig in, remember to always remind yourself:
 
 ### [THE GAP](https://vimeo.com/85040589) — Ira Glass
 
-Do more work. Do better work. Don't stop fighting. Everyone struggles.
+Do more work. Do better work. Keep fighting. Everyone struggles.
+
+### [An Invocation for Beginnings](https://www.youtube.com/watch?v=RYlCVwxoL_g) — Ze Frank
+
+Starting is always hard. Get started anyway. Worry about being done later.
 
 ## Sections
 
