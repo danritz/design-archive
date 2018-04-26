@@ -16,6 +16,12 @@ Jump to...
 
 Kathy does an amazing job reframing how a product shouldn’t be cool, but help make the person using it cool. It’s a subtle shift in thinking, but makes a big difference in how things are designed. She magically balances being aggressive and driven, while still having a humble, empathetic point of view.
 
+### [Facilitating Learning and Wellness in Schools](https://www.youtube.com/watch?v=1VBywz1c4cs) — Professor Richard Ryan
+
+A great explanation of what kinds of motivation work, temporarily work with unintended consequences, and don't work at all. This is so much better than any of the habit hacking and carrot/stick approaches for enabling people to do good work. A good "brand" happens when your company or your product is seen as a helpful peer, not a bossy supervisor.
+
+*Side-note: this is also great for managers and teams to develop better working relationships.*
+
 ## Thinking about systems
 
 ### [Media for Thinking the Unthinkable](https://vimeo.com/67076984) — Bret Victor
