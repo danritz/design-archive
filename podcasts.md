@@ -10,7 +10,11 @@ I love how he frames design as a big, far-reaching concern that touches every pa
 
 ### [Intercom on Product Management](https://www.breaker.audio/intercom-on-product-management) — Intercom (9 episodes)
 
-Each episode is short and sweet. Most are five to ten minutes on a very specific topic. I love that the first episode is about understanding what people are doing in the present — the most underrated information of a product development team. Even though these episodes are catering to product *management*, they either heavily overlap with design work or are critacal for designers to understand.
+Each episode is short and sweet. Most are five to ten minutes on a very specific topic. I love that the first episode is about understanding what people are doing in the present — the most underrated information of a product development team. Even though these episodes are catering to product *management*, they either heavily overlap with design work or are critical for designers to understand.
+
+### [Intercom on Customer Engagement](https://www.breaker.audio/intercom-on-customer-engagement) — Intercom (8 episodes)
+
+Similar to Product Management, *customer management* either heavily overlaps with design work or is critical for designers to understand. Short episodes. Specific topics. Helping you understand how to communicate with customers before, during, and after using your product. Super important context while designing your product.
 
 ## Other sections
 
