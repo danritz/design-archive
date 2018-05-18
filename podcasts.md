@@ -8,6 +8,10 @@
 
 I love how he frames design as a big, far-reaching concern that touches every part of the business. It's a deep and interesting problem. Stressing knowledge of real life in current settings with specific situational concerns is how you untangle design work. Draws a hard line that you can't plan a significant project in advance. Nice touch at the end about how small changes should help clarify the whole, not fragment the application into a set of smaller, independent concerns.
 
+### [What to Do With a Seat at the Table](https://www.breaker.audio/presentable/e/31585912) — Jeffery Veen, Presentable
+
+Great stories about growing into design roles with more and more responsibility until you're on the top of the pile. What happens as you progress? Lots of good advice for what to concentrate on, and when, while growing as a designer.
+
 ### [Intercom on Product Management](https://www.breaker.audio/intercom-on-product-management) — Intercom (9 episodes)
 
 Each episode is short and sweet. Most are five to ten minutes on a very specific topic. I love that the first episode is about understanding what people are doing in the present — the most underrated information of a product development team. Even though these episodes are catering to product *management*, they either heavily overlap with design work or are critical for designers to understand.
