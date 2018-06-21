@@ -53,6 +53,10 @@ A thorough explanation with tangible examples of managing value instead of cost.
 
 ## Thinking about the role
 
+### [Designing from start to finish](https://vimeo.com/16814487) — Ryan Singer
+
+A great alternative to the common pattern of low to high fidelity designs as a way to frame future software development. Instead we should concentrate on getting to real usage in real software, then worry about fleshing out the details.
+
 ### [Putting Play First](https://www.youtube.com/watch?v=2u6HTG8LuXQ) — Nintendo
 
 Prioritizing a core theme to make things easier to learn while staying available to large amounts of variation. An excellent metaphor for being specific about intent while agnostic towards the implementation. Also very smart thinking on absorbing variation in our designs.
