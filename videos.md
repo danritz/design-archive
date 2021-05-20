@@ -50,6 +50,9 @@ A thorough explanation with tangible examples of managing value instead of cost.
 
 *Warning: he makes a sexist comment about how women spend money — I'm looking for an alternative video for this topic.*
 
+### [Joshua Arnold interviewed by John Cutler](https://www.youtube.com/watch?v=G1xaCFss6q8) — Joshua Arnold
+
+A great exploration of the ways a business determines value and ways it invests its resources. Examples included throughout. Understanding conditions and consequences that influence the system from several different perspectives. A great value structure (four buckets) that's relatively easy to talk about with business minded people about how they view and understand the system they're in. Some top-down and bottom-up pairing that makes sense.
 
 ## Thinking about the role
 
