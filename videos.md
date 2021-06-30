@@ -54,6 +54,10 @@ A thorough explanation with tangible examples of managing value instead of cost.
 
 A great exploration of the ways a business determines value and ways it invests its resources. Examples included throughout. Understanding conditions and consequences that influence the system from several different perspectives. A great value structure (four buckets) that's relatively easy to talk about with business minded people about how they view and understand the system they're in. Some top-down and bottom-up pairing that makes sense.
 
+## [Deming 101: Curiosity, Learning, Knowledge, and Improvement](https://www.youtube.com/watch?v=aY3ZfCurdjs) — Tim Higgins
+
+Relating pride and joy in work to improving quality. All of this, as a side-effect, pushes inefficiency out of a system. It creates value for the company. Deming was masterful at connecting curiosity to learning, knowledge, and improvement. We need to think of our work environments this way. What comes before understanding? Curiosity and learning. What comes after understanding? Improvement. These are all wrapped up together.
+
 ## Thinking about the role
 
 ### [Designing from start to finish](https://vimeo.com/16814487) — Ryan Singer
