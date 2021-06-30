@@ -76,6 +76,10 @@ Visualizing user research across more than two dimensions. This "fingerprint" fe
 
 Across a few questions and answers, in aggregate, a fantastic conversation of leadership shows up. Particularly relevant to designers because it's important to understand we're making decisions on behalf of other people. These people want to be understood and trust the designers who are acting on their behalf.
 
+### [We Are What We Repeatedly Do: Idealized Design & Beginner’s Mind](https://vimeo.com/93623449) — Jabe Bloom
+
+Startups can have explosive growth because they tend to have beginner’s minds (because they’re beginning) and are thinking systemically (because they have to). It’s hard *not* to see the system when the system is early, small, and emerging. We can keep doing this, even when large.
+
 ## Other sections
 
 * [Books](https://github.com/danritz/design-archive/blob/master/books.md)
